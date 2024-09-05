@@ -1,6 +1,5 @@
-# Personal Management Program
+# University Personal Management Program in Java
 
-## Final Project by Ella Stumpe
 
 This is a Personal Management Program written in Java. The program allows users to manage information about faculty, students, and staff members. It provides functionality to enter, print, and delete information, as well as generate tuition invoices for students.
 
